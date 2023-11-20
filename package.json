@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "jest",
-    "start": "nodemon src/server"
+    "start": "nodemon src/server.ts"
   },
   "keywords": [],
   "author": "",
