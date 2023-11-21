@@ -7,3 +7,4 @@ router.get("/coffee", coffeeController.getCoffee);
 router.get("/coffeelover", coffeeController.getCoffeeLover);
 
 router.get("/teaquaffer", teaController.getTeaQuaffer);
+router.get("/tea", teaController.getTea);
